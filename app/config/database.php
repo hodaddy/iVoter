@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'ivoter',
-			'username'  => 'ivoterUser',
-			'password'  => 'redbunny5lax',
+			'database'  => 'database',
+			'username'  => 'user',
+			'password'  => 'password',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
